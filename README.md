@@ -1,4 +1,4 @@
-[TesteCalculadora.java](https://github.com/user-attachments/files/23734589/TesteCalculadora.java)# Calculadora em Java – Documentação e Javadoc
+# Calculadora em Java – Documentação e Javadoc
 Arquivos Javadoc:
 -----------------------------------------------------------------------
 [Calculadora.java](https://github.com/user-attachments/files/23734549/Calculadora.java)
@@ -108,7 +108,8 @@ public class Calculadora {
 
 
 -----------------------------------------------------------------------
-[Uploading TesteCalculado
+[TesteCalculadora.java](https://github.com/user-attachments/files/23734624/TesteCalculadora.java)
+[Uploadin
 package Calculadora;
 /**
  *<p><strong>Projeto Calculadora</strong></p>
@@ -152,7 +153,7 @@ public class TesteCalculadora {
         }
     }   
 }
-ra.java…]()
+g TesteCalculadora.java…]()
 
 -----------------------------------------------------------------------
 
