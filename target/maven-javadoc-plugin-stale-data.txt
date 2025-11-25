@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'C:/Users/aluno/Documents/NetBeansProjects/projeto_calculadora/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/aluno/Documents/NetBeansProjects/projeto_calculadora/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'projeto_calculadora 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'projeto_calculadora 1.0-SNAPSHOT API'
+Calculadora
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\src\main\java = 1764028112906
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\allclasses-index.html = 1764031798078
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\allpackages-index.html = 1764031798086
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\element-list = 1764031798001
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\help-doc.html = 1764031798134
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\index-all.html = 1764031798109
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\index.html = 1764031798125
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\member-search-index.js = 1764031798099
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\module-search-index.js = 1764031798093
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\overview-tree.html = 1764031798061
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\package-search-index.js = 1764031798095
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\search.html = 1764031798117
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\tag-search-index.js = 1764031798101
+C:\Users\aluno\Documents\NetBeansProjects\projeto_calculadora\target\reports\apidocs\type-search-index.js = 1764031798097
